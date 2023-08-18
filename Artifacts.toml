@@ -1,0 +1,92 @@
+[[Aprepro]]
+arch = "aarch64"
+git-tree-sha1 = "0c2923c744e9114c1e12ff8e90bd671c8b22d3fd"
+os = "macos"
+
+    [[Aprepro.download]]
+    sha256 = "39b225b991ef513ce3f1900cee0eee0228a1cdac38b697c0bce3c09e72139d74"
+    url = "https://github.com/cthonios/Aprepro_jll.jl/releases/download/Aprepro-v6.11.0+0/Aprepro.v6.11.0.aarch64-apple-darwin.tar.gz"
+[[Aprepro]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ac5cd0f4b72d8ae948727a3b646af24dc1cde3e2"
+libc = "glibc"
+os = "linux"
+
+    [[Aprepro.download]]
+    sha256 = "8ca47dcaf7073ee3e7cbe6d3b7aa3fd5e894ae194ed6322bf8bf2555bef1ea2a"
+    url = "https://github.com/cthonios/Aprepro_jll.jl/releases/download/Aprepro-v6.11.0+0/Aprepro.v6.11.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Aprepro]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d2e19e9e32c8d008648be3f284c56d4acaabe20b"
+libc = "glibc"
+os = "linux"
+
+    [[Aprepro.download]]
+    sha256 = "877641087c8b8d6ab2792633b3df4b2df828d80dae325a48d57c1f43062f7c27"
+    url = "https://github.com/cthonios/Aprepro_jll.jl/releases/download/Aprepro-v6.11.0+0/Aprepro.v6.11.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Aprepro]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b3100d8f48cb312d37e448003723162de70e02c3"
+os = "windows"
+
+    [[Aprepro.download]]
+    sha256 = "bedffdbe1bc221a08057ab7bcf7830482015c223d90aa3d5dd8f44cb113be3dd"
+    url = "https://github.com/cthonios/Aprepro_jll.jl/releases/download/Aprepro-v6.11.0+0/Aprepro.v6.11.0.i686-w64-mingw32-cxx03.tar.gz"
+[[Aprepro]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "531de4b442a5912805005ea28cc49e88145672a1"
+os = "windows"
+
+    [[Aprepro.download]]
+    sha256 = "ef8797a60e68733676d71a1407456de85efa7f550bdcaf659f75bf8150ea597e"
+    url = "https://github.com/cthonios/Aprepro_jll.jl/releases/download/Aprepro-v6.11.0+0/Aprepro.v6.11.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Aprepro]]
+arch = "x86_64"
+git-tree-sha1 = "524713b169dfaeb17ea754cf66671fd496c7a923"
+os = "macos"
+
+    [[Aprepro.download]]
+    sha256 = "b7c5d2d2aeaa7fc85179e3cd3e267c35b11e81384e5c5eda9b2f332641b04433"
+    url = "https://github.com/cthonios/Aprepro_jll.jl/releases/download/Aprepro-v6.11.0+0/Aprepro.v6.11.0.x86_64-apple-darwin.tar.gz"
+[[Aprepro]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "758700ab28a0a80b5b6bd235428388b41c493413"
+libc = "glibc"
+os = "linux"
+
+    [[Aprepro.download]]
+    sha256 = "77e65cc949d66d98b109ea765433e5c185ba539e09d673521ebd19997af7d52f"
+    url = "https://github.com/cthonios/Aprepro_jll.jl/releases/download/Aprepro-v6.11.0+0/Aprepro.v6.11.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Aprepro]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "27ffa277333c04f31ebb16b799582ec3ad6489ab"
+libc = "glibc"
+os = "linux"
+
+    [[Aprepro.download]]
+    sha256 = "20899aba5c13d374b0c0d780b4f86b4cafb537669c3cedcdebde6863fd44d683"
+    url = "https://github.com/cthonios/Aprepro_jll.jl/releases/download/Aprepro-v6.11.0+0/Aprepro.v6.11.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Aprepro]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e967ae862b627adcce5981a6b316a0c1f165ea7f"
+os = "windows"
+
+    [[Aprepro.download]]
+    sha256 = "b24c95786085d216fe36b7a603426a44ff1721e6bc04ebdf6033fa73bca07c09"
+    url = "https://github.com/cthonios/Aprepro_jll.jl/releases/download/Aprepro-v6.11.0+0/Aprepro.v6.11.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Aprepro]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b0e051ec3699b5149550a23d1fdaa295db82c24c"
+os = "windows"
+
+    [[Aprepro.download]]
+    sha256 = "11e5118462d13629edd117dfa53892d7ea7e03fb258ce558e62cfd383fe9acd7"
+    url = "https://github.com/cthonios/Aprepro_jll.jl/releases/download/Aprepro-v6.11.0+0/Aprepro.v6.11.0.x86_64-w64-mingw32-cxx11.tar.gz"
